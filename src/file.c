@@ -1,5 +1,5 @@
 
-#include "elf.h"
+#include "xxdc.h"
 
 FILE* open_file(const char* filename, const char* mode) {
     FILE* file = fopen(filename, mode);

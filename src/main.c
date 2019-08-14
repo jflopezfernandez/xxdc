@@ -1,5 +1,5 @@
 
-#include "elf.h"
+#include "xxdc.h"
 
 /** This is the C-string null terminator, represented by the hex value 0x00. It
  *  is explicitly defined, rather than using 0 or NULL, for the purpose of
